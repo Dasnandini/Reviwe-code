@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+
+  /* ==============================
+      BACKGROUND
+  ============================== */
+
+  --background: #09090B;
+  --foreground: #FAFAFA;
+
+  --card: #18181B;
+  --card-foreground: #FAFAFA;
+
+  --popover: #111114;
+  --popover-foreground: #FAFAFA;
+
+  /* ==============================
+      PRIMARY
+  ============================== */
+
+  --primary: #FACC15;
+  --primary-hover: #EAB308;
+  --primary-foreground: #09090B;
+
+  /* ==============================
+      SECONDARY
+  ============================== */
+
+  --secondary: #1E1E22;
+  --secondary-foreground: #FFFFFF;
+
+  /* ==============================
+      MUTED
+  ============================== */
+
+  --muted: #27272A;
+  --muted-foreground: #A1A1AA;
+
+  /* ==============================
+      BORDER
+  ============================== */
+
+  --border: #2D2D32;
+  --input: #2D2D32;
+
+  /* ==============================
+      STATUS
+  ============================== */
+
+  --success: #22C55E;
+  --warning: #F59E0B;
+  --destructive: #EF4444;
+  --info: #3B82F6;
+
+  /* ==============================
+      RADIUS
+  ============================== */
+
+  --radius: 18px;
+}
